@@ -1,4 +1,4 @@
-### Hi everyone, I'm Phan Quang Minh Long 👋
+### ✨ Hi everyone, I'm Phan Quang Minh Long 👋
 
 <!--
 **minhlong26052001/minhlong26052001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+[<img align="left" | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
+[<img align="left" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/pqmlong265
 [instagram]: https://www.instagram.com/minhlong909
 [linkedin]: https://www.linkedin.com/in/phanquangminhlong
+[github]: https://github.com/minhlong26052001
