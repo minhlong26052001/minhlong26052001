@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/fluency/2x/github.png" />
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/2x/figma.png" />
+<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/2x/garena.png" />
+
 
 [facebook]: https://www.facebook.com/pqmlong265
 [instagram]: https://www.instagram.com/minhlong909
