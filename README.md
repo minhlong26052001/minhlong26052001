@@ -22,19 +22,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools that I've used:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
-
-
-<img align="left" alt="AngularJS" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTiTvC39iFN0YPwziixoRGxJrqdTmYH-YoqbylrmCi_Tfv88xqz2gEqN73AH-yJQ5on-c&usqp=CAU" />
 <img align="left" alt="github" width="26px" src="https://img.icons8.com/fluency/2x/github.png" />
-
-
-<img align="left" alt="Sql" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
-
 <img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/2x/figma.png" />
 <img align="left" alt="Photoshop" width="26px" src="https://img.icons8.com/color/2x/adobe-photoshop.png" />
 <img align="left" alt="illustrator" width="26px" src="https://img.icons8.com/color/2x/adobe-illustrator.png" />
