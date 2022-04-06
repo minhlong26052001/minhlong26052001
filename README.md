@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Marpet website and Unity project.
 - 💬 Ask me about everything that I know 😄
-- 📫 How to reach me: Contact via email longpqm19406c@st.uel.edu.vn.
+- 📫 How to reach me: Contact via email phanquangminhlongwork@gmail.com.
 - ⚡ Fun fact: I love reading & watching Dragon Ball <img align="center" width="18px" src="https://static.wikia.nocookie.net/dragonball/images/f/f4/DBS_logo.png" />
 
 ### Connect with me:
