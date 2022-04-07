@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with ...
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Marpet website & Unity project.
+- 🔭 I’m currently working on Marpet website.
 - 💬 Ask me about everything that I know 😄
 - 📫 Contact me via email phanquangminhlongwork@gmail.com.
 - ⚡ Fun fact: I love watching Dragon Ball <img align="center" width="18px" src="https://static.wikia.nocookie.net/dragonball/images/f/f4/DBS_logo.png" />
