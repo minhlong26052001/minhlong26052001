@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on Marpet website.<br>💬 Ask me about everything that I know 😄<br>📫 Contact me via email here.<br>⚡ Fun fact: I love watching Dragon Ball
+
 ### ✨ Hi everyone, I'm Phan Quang Minh Long 👋
 
 <!--
@@ -39,10 +42,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/minhlong909
 [linkedin]: https://www.linkedin.com/in/phanquangminhlong
 [github]: https://github.com/minhlong26052001
-
-# 💫 About Me:
-🔭 I’m currently working on Marpet website.<br>💬 Ask me about everything that I know 😄<br>📫 Contact me via email here.<br>⚡ Fun fact: I love watching Dragon Ball
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pqmlong265) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanquangminhlong) 
