@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently reviewing Javascript in order to use React.<br>💬 Ask me about everything that I know 😄<br>📫 Contact me via email here.<br>⚡ Fun fact: I love watching Dragon Ball
+🔭 I’m currently reviewing Javascript in order to use React.<br>💬 Ask me about everything that I know 😄<br>📫 Contact me via email <a href="mailto:longpqm19406c@st.uel.edu.vn">here</a>.<br>⚡ Fun fact: I love watching Dragon Ball
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pqmlong265) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phanquangminhlong) 
