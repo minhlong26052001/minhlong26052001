@@ -20,5 +20,9 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+
+### 😂 VN OOP Meme
+<img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/289194166_1249369405597851_768955773999872712_n.jpg?stp=dst-jpg_s480x480&_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_ohc=rGlULdIRv0kAX9rVuKt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVKSGsnlDt5IMyaVJYbzAHStBxX6YJ5w4JX1vhMIMaGh7A&oe=62F0CA71" width="512px"/>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=minhlong26052001&icon=0&color=0)](https://visitcount.itsvg.in)
